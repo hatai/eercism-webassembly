@@ -1,1 +1,1 @@
-# eercism-webassembly
+# exercism-webassembly
